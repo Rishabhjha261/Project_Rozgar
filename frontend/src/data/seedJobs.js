@@ -1,5 +1,5 @@
-// NOTE: Locations are approximate lat/lng for demo purposes.
-// We store simple, consistent shapes so we can later swap to a real backend.
+
+// We store simple, consistent shapes 
 
 export const SEED_JOBS = [
   {
